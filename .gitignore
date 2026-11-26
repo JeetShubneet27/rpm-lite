@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+results/preds/
+results/cfgs/
+results/seg_heads/
+probes/*.pt
+*.log
