@@ -1,0 +1,5 @@
+{"model": "deit_small_patch16_224", "seconds": 33.4, "peak_gpu_mb": 863, "gpu": "NVIDIA GeForce RTX 5060 Ti", "num_images": 512, "loo_images": 128}
+{"model": "vit_base_patch14_dinov2.lvd142m", "seconds": 172.6, "peak_gpu_mb": 2901, "gpu": "NVIDIA GeForce RTX 5060 Ti", "num_images": 512, "loo_images": 128}
+{"model": "vit_large_patch14_dinov2.lvd142m", "seconds": 519.6, "peak_gpu_mb": 4581, "gpu": "NVIDIA GeForce RTX 5060 Ti", "num_images": 512, "loo_images": 128}
+{"model": "vit_small_patch16_224.augreg_in21k_ft_in1k", "seconds": 30.1, "peak_gpu_mb": 863, "gpu": "NVIDIA GeForce RTX 5060 Ti", "num_images": 512, "loo_images": 128}
+{"model": "vit_base_patch16_224.augreg_in21k_ft_in1k", "seconds": 93.2, "peak_gpu_mb": 1856, "gpu": "NVIDIA GeForce RTX 5060 Ti", "num_images": 512, "loo_images": 128}
